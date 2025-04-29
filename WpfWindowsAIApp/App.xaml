@@ -1,0 +1,10 @@
+﻿<Application x:Class="WpfWindowsAIApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfWindowsAIApp"
+             StartupUri="MainWindow.xaml"
+             ThemeMode="Dark">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
